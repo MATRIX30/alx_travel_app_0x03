@@ -1,0 +1,9 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2284
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2335
+Bad Request: /chapa-webhook
+"GET /chapa-webhook HTTP/1.1" 400 30
+Bad Request: /chapa-webhook
+"GET /chapa-webhook HTTP/1.1" 400 30
